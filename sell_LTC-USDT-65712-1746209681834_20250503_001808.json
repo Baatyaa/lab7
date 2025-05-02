@@ -1,0 +1,28 @@
+{
+  "order": {
+    "status": true,
+    "result": {
+      "orderID": "LTC-USDT-66097-1746209887656",
+      "userId": "67d43efaef16e08ea48cdfd1",
+      "side": "sell",
+      "type": "limit",
+      "subType": "gtc",
+      "price": "90.344338",
+      "averagePrice": "0",
+      "quantity": "0.0001",
+      "cumQuantity": "0",
+      "cumQuoteQuantity": "0",
+      "cumCommission": "0",
+      "symbol": "LTC/USDT",
+      "status": "new",
+      "created": "2025-05-02T18:18:07.656Z",
+      "updated": "2025-05-02T18:18:07.659Z"
+    }
+  },
+  "metadata": {
+    "saved_at": "2025-05-03T00:18:08.280254",
+    "price_increase": "2%",
+    "original_price": 88.57288039215686,
+    "sell_price": 90.344338
+  }
+}
